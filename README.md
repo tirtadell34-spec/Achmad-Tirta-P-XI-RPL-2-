@@ -15,8 +15,6 @@ Saya adalah siswa SMK yang sedang mempelajari dunia
 - **Kotlin**
 - **GitHub**
 
-## 📂 My Projects
-
 ### 🌐 Website Portfolio
 Website pribadi untuk menampilkan informasi tentang diri saya,
 skill, dan project yang pernah dibuat.
@@ -31,10 +29,6 @@ Project latihan untuk memahami dasar-dasar pemrograman Java.
 
 - [Instagram](https://www.instagram.com/)
 - [GitHub](https://github.com/)
-
-## 📸 Portfolio Image
-
-![Portfolio](foto.jpg)
 
 ## ⭐ Thank You
 
