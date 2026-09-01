@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 Tentang Saya
-- 🎓 Sedang belajar / lulusan **[tirta/rpl]**
+- 🎓 Sedang belajar / lulusan **[nama kamu/jurusan]**
 - 💼 Saat ini bekerja sebagai **[posisi/pekerjaan]**
 - 🌱 Sedang memperdalam **[teknologi/skill yang dipelajari]**
 - 👯 Terbuka untuk kolaborasi di **[jenis proyek]**
